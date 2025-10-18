@@ -11,8 +11,8 @@ Bu loyiha – JavaScript/React asosida brauzerda ishlaydigan klassik Pong o‘yi
 ## Demo
 
 GitHub Pages orqali ochish uchun:  
-`https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME/`
+`https://github.com/Murodbektuychiyev/Pong-Game`
 
 ## Litsenziya
 
-MIT License. Batafsil [LICENSE](./LICENSE) faylida.
+MIT License. Batafsil [LICENSE](./MITLICENSE) faylida.
